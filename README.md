@@ -10,7 +10,7 @@ https://github.com/rexglue/rexglue-sdk
 # Setup
 
 1. Download 'segasuperstarstennisrecomprelease.exe' from releases tab
-2. Extract the Sega Superstars Tennis files into an `assets` (must be in same directory as .exe)
+2. Extract a legally obtained Sega Superstars Tennis .iso into an `assets` folder (must be in same directory as .exe)
 3. Run .exe and enjoy!
 
 # Build
