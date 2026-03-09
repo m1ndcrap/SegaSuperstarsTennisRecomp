@@ -1,6 +1,6 @@
 # Sega Superstars Tennis Recompiled
 
-> NOTES
+> NOTES:
 > This uses ReXGlue v0.3.
 > It is playable from start to finish but you may get slowdowns.
 
