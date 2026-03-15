@@ -1,2 +1,5 @@
 assets/*
 !assets/.gitkeep
+
+generated/*
+!generated/.gitkeep
