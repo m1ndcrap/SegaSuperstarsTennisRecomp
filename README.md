@@ -1,7 +1,7 @@
-# Sega Superstars Tennis Recompiled
+# Sega Superstars Tennis ReMatch
 
 > NOTES:
-> This uses ReXGlue v0.3.
+> This uses ReXGlue v0.4.2.
 > It is playable from start to finish but you may get slowdowns.
 
 Recompiled using the ReXGlue SDK:
@@ -9,7 +9,7 @@ https://github.com/rexglue/rexglue-sdk
 
 # Setup
 
-1. Download 'segasuperstarstennisrecomprelease.exe' from releases tab
+1. Download 'sst_rematch.exe' from releases tab
 2. Extract a legally obtained Sega Superstars Tennis .iso into an `assets` folder (must be in same directory as .exe)
 3. Run .exe and enjoy!
 
